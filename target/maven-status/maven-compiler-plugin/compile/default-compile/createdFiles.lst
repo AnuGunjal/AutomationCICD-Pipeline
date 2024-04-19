@@ -1,0 +1,9 @@
+automationTest\pageobjects\CheckoutPage.class
+automationTest\resources\ExtentReporterNG.class
+automationTest\resources\AbstractComponents.class
+automationTest\pageobjects\ProductCatlog.class
+automationTest\pageobjects\ConfirmationPage.class
+automationTest\pageobjects\LoginPage.class
+automationTest\abstractComponents\AbstractComponents.class
+automationTest\pageobjects\CartPage.class
+automationTest\pageobjects\OrderPage.class

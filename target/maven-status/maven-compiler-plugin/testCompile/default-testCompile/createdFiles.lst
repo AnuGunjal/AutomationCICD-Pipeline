@@ -1,0 +1,11 @@
+automatonTest\TestComponent\BaseTest.class
+automationTest\tests\SubmitOrderTest.class
+automationTest\testData\DataReader$1.class
+automatonTest\TestComponent\Listeners.class
+automationTest\tests\SubmitOrderTestWithHashmap.class
+automationTest\tests\SubmitOrderTestviaJson.class
+automatonTest\TestComponent\Retry.class
+automationTest\testData\DataReader.class
+automationTest\tests\ErrorValidationTest.class
+automationTest\tests\StandaloneTest.class
+automatonTest\TestComponent\BaseTest$1.class
